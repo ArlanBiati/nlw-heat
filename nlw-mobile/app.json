@@ -3,6 +3,7 @@
     "name": "nlw-mobile",
     "slug": "nlw-mobile",
     "version": "1.0.0",
+    "scheme": "nlw-mobile",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {

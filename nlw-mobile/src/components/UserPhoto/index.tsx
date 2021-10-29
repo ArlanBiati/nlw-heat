@@ -22,7 +22,7 @@ const SIZES = {
 }
 
 type UserPhotoProps = {
-  imageUri: string;
+  imageUri: string | undefined;
   sizes?: 'SMALL' | 'NORMAL'
 }
 
